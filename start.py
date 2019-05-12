@@ -57,7 +57,7 @@ player = Player() # Create the player
 # Holds the level layout in a list of strings.
 level = [
 "WWWWWWWWWWWWWWWWWWWW",
-"W                  W",
+"W E                W",
 "W         WWWWWW   W",
 "W   WWWW       W   W",
 "W   W        WWWW  W",
@@ -69,7 +69,7 @@ level = [
 "WWW   W   WWWWW W  W",
 "W W      WW        W",
 "W W   WWWW   WWW   W",
-"W     W    E   W   W",
+"W     W        W   W",
 "WWWWWWWWWWWWWWWWWWWW",
 ]
 
